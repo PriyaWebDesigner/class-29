@@ -1,0 +1,12 @@
+
+function name(parameter){
+    function body
+}
+
+name(parameter);
+
+addition(30,40,50);
+
+returnValue
+
+let value = returnValue * 150;
