@@ -15,27 +15,46 @@ let marks1 = [30,40,10,69];
 let j=0;
 while(j<marks1.length){
     console.log(marks1[j]);
-    j++
+    j++;
 }
 
 //Example-2
 let k = 1;
 while(k<=5){
-    console.log('Hello World')
-    k++
+    console.log('Hello World');
+    k++;
+}
+
+//Example------3
+let marks4 = [78,45,36,78,90]
+
+let m = 0;
+while(m<marks4.length){
+    console.log(marks4[m]);
+    m++;
 }
 
 //=======Do While Loop=======
-
+//Example1
 let marks2 = [20,50,33,80];
 
 let l = 0;
 do{
     console.log(marks2[l]);
-    l++
+    l++;
 }
 
 while(l<marks2.length);
+
+//Example-2
+let name1 = ['Priya', 'Riya', 'Purba', 'Anushka'];
+
+let n = 0;
+do{
+    console.log(name1[n]);
+    n++;
+}
+while(n<name1.length);
 
 //========For Each Loop=======
 
